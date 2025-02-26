@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<h1>Hi, I'm Kiam! <br/><a href="https://github.com/joshmadakor1">Learner</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a></h1>
+<h1>Hi, I'm Kiam! <br/><a>Cybersecurity Professional</a></h1>
 
 <h2> Linux Projects:</h2>
 
