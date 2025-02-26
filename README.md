@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<h1>Hi, I'm Kiam! <br/><a>Cybersecurity Professional</a></h1>
+<h1>Hi, I'm Kiam! </h1>
 
 <h2> Linux Projects:</h2>
 
